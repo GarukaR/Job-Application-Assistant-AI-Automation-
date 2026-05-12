@@ -4,13 +4,13 @@ An automated n8n workflow designed to streamline the job application process. It
 This workflow automates the tedious research and writing phases of a job application. By submitting a simple form, the system triggers a chain of AI agents that perform deep web research and produce a ready-to-use Google Document.
 
 Key Features:
-Web Research: Uses the Google Serper API to pull real-time data about companies and roles.
+	Web Research: Uses the Google Serper API to pull real-time data about companies and roles.
 
-Dual-Agent System: * Analyst Agent: Breaks down job requirements and company culture.
+	Dual-Agent System: * Analyst Agent: Breaks down job requirements and company culture.
 
-Writer Agent: Crafts personalized cover letters or resumes based on research.
+	Writer Agent: Crafts personalized cover letters or resumes based on research.
 
-Automated Document Generation: Creates and updates a Google Doc automatically, saving it to a designated folder.
+	Automated Document Generation: Creates and updates a Google Doc automatically, saving it to a designated folder.
 
 🛠️ Tech Stack
 n8n: Workflow orchestration.
