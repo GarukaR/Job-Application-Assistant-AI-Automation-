@@ -3,6 +3,8 @@ An automated n8n workflow designed to streamline the job application process. It
 
 <img width="1190" height="277" alt="image" src="https://github.com/user-attachments/assets/f876f317-7cf5-456e-b951-cdd676be48cd" />
 
+Live Demo: [Private Instance - Available upon request for demo]
+
 🚀 Overview
 This workflow automates the tedious research and writing phases of a job application. By submitting a simple form, the system triggers a chain of AI agents that perform deep web research and produce a ready-to-use Google Document.
 
